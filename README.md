@@ -151,8 +151,8 @@ $ ./run.sh
 ```
 $ git clone https://github.com/archerysec/archerysec.git
 $ cd archerysec
-$ setup.bat
-$ run.bat
+$ ./setup.bat
+$ ./run.bat
 ```
 
 ## Note on installation for developers and contributors
